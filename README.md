@@ -3,6 +3,7 @@ Just a readme file with the list and info of all the Script Winter Of Code proje
 
  | No. |name |github |stack |description|
  |--- | --- | --- | --- | --- | 
+  | 1 | CircuitVerse | https://github.com/CircuitVerse/CircuitVerse | JavaScript,Ruby,HTML,CSS |  CircuitVerse  is  a  free,  open-source  platform  which  allows  users  to … | 
  | 2 | Interactive Book | https://github.com/CircuitVerse/Interactive-Book | JavaScript,Jekyll,HTML,CSS,Ruby |  The  aim  of  this  project  is  to  create  an  online … | 
  | 3 | Awesome Portfolio Website | https://github.com/smaranjitghose/awesome-portfolio-websites | HTML,CSS,JS,React,NextJS |  An  open-source  project  aimed  at  providing  free  and  beautiful  templates … | 
  | 4 | Internship Onboarding Platform | https://github.com/praveenscience/Internship-LMS-FrontEnd | MERN,ReactJS,NodeJS,bootstrap5,ExpressJS |  A  nice  way  to  onboard  new  interns  to  projects  and … | 
